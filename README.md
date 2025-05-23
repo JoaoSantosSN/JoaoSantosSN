@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: Python, Java e Javascript
+  💻 Linguagens: Python, <a href="https://github.com/JoaoSantosSN/Projetos-Java">Java</a> e Javascript
 </p>
 
 <p align="left">
