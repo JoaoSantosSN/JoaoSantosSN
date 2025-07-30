@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🙋‍♂️ Portifolio: <a href="https://fulanodtals.github.io/portifolio/">João Santos</a>
+  🙋‍♂️ Acesse meu site: <a href="https://briky.com.br">briky.com.br</a>
 </p>
 
 <p align="left">
