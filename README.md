@@ -10,6 +10,7 @@
 
 <p align="left">
   🙋‍♂️ Acesse meu site: <a href="https://briky.com.br">briky.com.br</a>
+  🎮 Acesse meu jogo: <a href="https://jogasso-dp.vercel.app/">Jogasso</a>
 </p>
 
 <p align="left">
