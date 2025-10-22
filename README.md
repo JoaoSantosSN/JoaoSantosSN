@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🙋‍♂️ Acesse meu site: <a href="https://briky.com.br">briky.com.br</a>
+  🙋‍♂️ Acesse meu site: <a href="https://briky.com.br">briky.com.br</a><br>
   🎮 Acesse meu jogo: <a href="https://jogasso-dp.vercel.app/">Jogasso</a>
 </p>
 
